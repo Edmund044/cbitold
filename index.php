@@ -459,10 +459,45 @@ color:#ffffff;    "> </div>
         </article>
     </section>
     <!-- main slider end -->
-
-
+<br>
+<br>
+ <!-- service section -->
+ <section class="service-section">
+        <div class="container-fullid">
+            <div class="row">
+                <div class="col-md-3 col-sm-6 col-sm-12 service-colmun" style="background: url(../images/home/aa.jpg);">
+                    <div class="service-title">
+                        <div class="sec-title"><h2 style="font-family:Oswald, sans-serif;font-weight: 400;font-size: 30px; opacity: 1; visibility: visible;color:#242d2e;">Our <span>Services</span></h2></div>
+                        <div class="text"><p style="font-family: Roboto, sans-serif;font-weight: 400;font-size: 16px;opacity: 1;visibility: visible;line-height:1.5;color:#ffffff;">We offer a number of services in ranging from business mentorship to management Consultancy.</p></div>
+                    </div>
+                </div>
+                <div class="col-md-9 col-sm-12 col-xs-12 service-colmun">
+                    <div class="three-column-carousel">
+                        <div class="single-item">
+                                
+                            <h4 style="font-family:Oswald, sans-serif;font-weight: 400;font-size: 30px; opacity: 1; visibility: visible;color:#242d2e;"><a href="business_growth.html">Business Growth</a></h4>
+                            <div class="text"><p style="font-family: Roboto, sans-serif;font-weight: 400;font-size: 16px;opacity: 1;visibility: visible;line-height:1.5;color:#647072;">Our one to one coaching approach provides you with personalized support service, focusing on your particular issues and concerns. Our expert,business coaches
+                                 and mentors will offer strategic solutions that will add value to your business.</p></div>
+                        </div>
+                        <div class="single-item">
+                           
+                            <h4 style="font-family:Oswald, sans-serif;font-weight: 400;font-size: 30px; opacity: 1; visibility: visible;color:#242d2e;"><a href="consulting.html">Planning Workshops </a></h4>
+                            <div class="text"><p style="font-family: Roboto, sans-serif;font-weight: 400;font-size: 16px;opacity: 1;visibility: visible;line-height:1.5;color:#647072;">With our vast knowledge on strategic tools and models, our facilitation service helps organizations run successful strategic planning workshops. We are fully conversant with a range of strategic planning tools and models.</p></div>
+                        </div>
+                        <div class="single-item">
+                            
+                            <h4 style="font-family:Oswald, sans-serif;font-weight: 400;font-size: 30px; opacity: 1; visibility: visible;color:#242d2e;"><a href="consulting.html">Management Consultancy </a></h4>
+                            <div class="text"><p style="font-family: Roboto, sans-serif;font-weight: 400;font-size: 16px;opacity: 1;visibility: visible;line-height:1.5;color:#647072;">Many SMEs are run by single owner managers with little to no specialist or expert support within the enterprise, unlike large organizations with their boards of directors and internal management consultancy. 
+                            
+                                    </p></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
     <!-- feature-section -->
-    <section class="feature-section sec-pad">
+    <section class="feature-section sec-pad " style="background-color:;">
         <div class="container">
             <div class="feature-title centered">
                 <div class="section-title"></div>
@@ -513,188 +548,12 @@ color:#ffffff;    "> </div>
             </div>
         </div>
     </section>
-     <!-- service section -->
- <section class="service-section">
-        <div class="container-fullid">
-            <div class="row">
-                <div class="col-md-3 col-sm-6 col-sm-12 service-colmun" style="background: url(../images/home/aa.jpg);">
-                    <div class="service-title">
-                        <div class="sec-title"><h2 style="font-family:Oswald, sans-serif;font-weight: 400;font-size: 30px; opacity: 1; visibility: visible;color:#242d2e;">Our <span>Services</span></h2></div>
-                        <div class="text"><p style="font-family: Roboto, sans-serif;font-weight: 400;font-size: 16px;opacity: 1;visibility: visible;line-height:1.5;color:#ffffff;">We offer a number of services in ranging from business mentorship to management Consultancy.</p></div>
-                    </div>
-                </div>
-                <div class="col-md-9 col-sm-12 col-xs-12 service-colmun">
-                    <div class="three-column-carousel">
-                        <div class="single-item">
-                                
-                            <h4 style="font-family:Oswald, sans-serif;font-weight: 400;font-size: 30px; opacity: 1; visibility: visible;color:#242d2e;"><a href="business_growth.html">Business Growth</a></h4>
-                            <div class="text"><p style="font-family: Roboto, sans-serif;font-weight: 400;font-size: 16px;opacity: 1;visibility: visible;line-height:1.5;color:#647072;">Our one to one coaching approach provides you with personalized support service, focusing on your particular issues and concerns. Our expert,business coaches
-                                 and mentors will offer strategic solutions that will add value to your business.</p></div>
-                        </div>
-                        <div class="single-item">
-                           
-                            <h4 style="font-family:Oswald, sans-serif;font-weight: 400;font-size: 30px; opacity: 1; visibility: visible;color:#242d2e;"><a href="consulting.html">Planning Workshops </a></h4>
-                            <div class="text"><p style="font-family: Roboto, sans-serif;font-weight: 400;font-size: 16px;opacity: 1;visibility: visible;line-height:1.5;color:#647072;">With our vast knowledge on strategic tools and models, our facilitation service helps organizations run successful strategic planning workshops. We are fully conversant with a range of strategic planning tools and models.</p></div>
-                        </div>
-                        <div class="single-item">
-                            
-                            <h4 style="font-family:Oswald, sans-serif;font-weight: 400;font-size: 30px; opacity: 1; visibility: visible;color:#242d2e;"><a href="consulting.html">Management Consultancy </a></h4>
-                            <div class="text"><p style="font-family: Roboto, sans-serif;font-weight: 400;font-size: 16px;opacity: 1;visibility: visible;line-height:1.5;color:#647072;">Many SMEs are run by single owner managers with little to no specialist or expert support within the enterprise, unlike large organizations with their boards of directors and internal management consultancy. 
-                            
-                                    </p></div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- feature section end -->
-    <!-- service section -->
     
-    <!-- feature section end -->
-    <!-- service section -->
-
-    <!-- feature section end -->
-
- 
-    <!-- feature section end -->
-    <!-- service section -->
-   <!-- <section style="background-color: #253559;">
-        <div class="container-fluid" >
-            <div class="row" >
-                <div class="col-md-3 col-sm-6 col-sm-12"  >
-                    <div class="service-title">
-                        <div class="sec-title"><h2>Our <span>Services</span></h2></div>
-                        <div  ><p style="color:white;">We offer a number of services in ranging from business mentorship to management Consultancy.</p></div>
-                    </div>
-                </div>
-                <div class="col-md-9 col-sm-12 col-xs-12 service-colmun" style="background-color: #ffffff;" >
-                    <div class="three-column-carousel">
-                        <div class="single-item">
-                            <div class="icon-box"><a href="service-details.html"><i class="flaticon-graph" style="background-color:#f6b129;color:white;:200px;"></i></a></div>
-                            <h4><a href="service-details.html">Business Mentorship</a></h4>
-                            <div class="text"><p>Our one to one coaching approach provides you with personalized support service, focusing on your particular issues and concerns. Our expert business coaches
-                                 and mentors offer strategic solutions that will add value to your business.</p></div>
-                        </div>
-                        <div class="single-item">
-                            <div class="icon-box"><a href="service-details.html"><i class="flaticon-people"></i></a></div>
-                            <h4><a href="service-details.html">Planning Workshops </a></h4>
-                            <div class="text"><p>With our vast knowledge on strategic tools and models, our facilitation service helps organizations run successful strategic planning workshops. We are fully conversant with a range of strategic planning tools and models.</p></div>
-                        </div>
-                        <div class="single-item">
-                            <div class="icon-box"><a href="service-details.html"><i class="flaticon-suitcase"></i></a></div>
-                            <h4><a href="service-details.html">Management Consultancy </a></h4>
-                            <div class="text"><p>Many SMEs are run by single owner managers with little to no specialist or expert support within the enterprise, unlike large organizations with their boards of directors and function-oriented departments that offer assistance in decision making.
-                                   
-                                    </p></div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>-->
-    <!-- feature section end -->
-
-    <!-- testimonial section -->
-    <section class="testimonial-section sec-pad">
-        <div class="container">
-            <div class="testimonial-title centered">
-                <div class="section-title"></div>
-                <div class="title-text">
-                    <h2 style="font-family:Oswald, sans-serif;font-weight: 400;font-size: 30px; opacity: 1; visibility: visible;line-height:1.5;color:#242d2e;">Testimonials</h2>
-                    <p style="font-family: Roboto, sans-serif;font-weight: 400;font-size: 16px;opacity: 1;visibility: visible;line-height:1.5;color:#24314f;">What our customers think</p></div>
-            </div>
-            <div class="testimonial-slider">
-                <div class="testimonial-content">
-                    <div class="authore-info">
-                        <div class="img-box"><figure><!--<img style="width:70px;height:70px;" src="./images/home/female.png" alt="">-->
-                        <img style="width:70px;height:70px;object-fit:cover;" src="./images/IMG_2301.JPG" alt=""></figure></div>
-                        <div class="author-meta">
-                            <h4>Margaret John Njau</h4>
-                            <span>Fashion Designer in Langata</span>
-                        </div>
-                    </div>
-                    <div class="text"><p style="font-family: Roboto, sans-serif;font-weight: 400;font-size: 16px;opacity: 1;visibility: visible;line-height:1.5;color:#24314f;">"You guys covered alot .I've learnt so muuch.Cant wait for the next time!"</p></div>
-                </div>
-                <div class="testimonial-content">
-                    <div class="authore-info">
-                        <div class="img-box"><figure><img style="width:70px;height:70px;object-fit:cover;" src="./images/home/1569142903896.jpg" alt=""></figure></div>
-                        <div class="author-meta">
-                            <h4>Mr. Okisegere Ojepat</h4>
-                            <span>CEO at FPC-Kenya</span>
-                        </div>
-                    </div>
-                    <div class="text"><p style="font-family: Roboto, sans-serif;font-weight: 400;font-size: 16px;opacity: 1;visibility: visible;line-height:1.5;color:#24314f;">“We were able to get training in the export business and that has been transformative.”</p></div>
-                </div>
-               
-               <div class="testimonial-content">
-                    <div class="authore-info">
-                        <div class="img-box"><figure><img style="width:70px;height:70px;" src="./images/home/female.png" alt=""></figure></div>
-                        <div class="author-meta">
-                            <h4>Sharon Achieng</h4>
-                            <span>Business lady  in Nairobi,Kenya</span>
-                        </div>
-                    </div>
-                    <div class="text"><p style="font-family: Roboto, sans-serif;font-weight: 400;font-size: 16px;opacity: 1;visibility: visible;line-height:1.5;color:#24314f;">Thank you so much for an amazing business training ,this is literally a gamechanger for me.</p></div>
-                </div>
-                
-                
-               
-               
-                   
-               
-            </div>
-        </div>
-    </section>
-    <!-- testimonial section end -->
-
-    <!-- fact-counter -->
-    <div></div>
-    <section class="fact-counter centered" style="background-color: #253559;">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-3 col-sm-6 col-xs-12 counter-colmun">
-                    <div class="single-item">
-                        <article class="column wow fadeIn" data-wow-duration="0ms">
-                            <div class="count-outer"><span class="count-text" data-speed="1500" data-stop="10">0</span><span>+</span></div>
-                            <div class="text" style="font-family: Roboto, sans-serif;font-weight: 400;font-size: 16px;opacity: 1;visibility: visible;line-height:1.5;color:#ffffff;">Years Experience</div>
-                        </article>
-                    </div>
-                </div>
-                <div class="col-md-3 col-sm-6 col-xs-12 counter-colmun">
-                    <div class="single-item">
-                        <article class="column wow fadeIn" data-wow-duration="0ms">
-                            <div class="count-outer"><span class="count-text" data-speed="1500" data-stop="10">0</span><span>+</span></div>
-                            <div class="text" style="font-family: Roboto, sans-serif;font-weight: 400;font-size: 16px;opacity: 1;visibility: visible;line-height:1.5;color:#ffffff;">Industries served</div>
-                        </article>
-                    </div>
-                </div>
-                <div class="col-md-3 col-sm-6 col-xs-12 counter-colmun">
-                    <div class="single-item">
-                        <article class="column wow fadeIn" data-wow-duration="0ms">
-                            <div class="count-outer"><span class="count-text" data-speed="1500" data-stop="7558">0</span><span>+</span></div>
-                            <div class="text" style="font-family: Roboto, sans-serif;font-weight: 400;font-size: 16px;opacity: 1;visibility: visible;line-height:1.5;color:#ffffff;">Enterprises Trained</div>
-                        </article>
-                    </div>
-                </div>
-                <div class="col-md-3 col-sm-6 col-xs-12 counter-colmun">
-                    <div class="single-item">
-                        <article class="column wow fadeIn" data-wow-duration="0ms">
-                            <div class="count-outer"><span class="count-text" data-speed="1500" data-stop="177">0</span><span>+</span></div>
-                            <div class="text" style="font-family: Roboto, sans-serif;font-weight: 400;font-size: 16px;opacity: 1;visibility: visible;line-height:1.5;color:#ffffff;">Our Expert Staffs</div>
-                        </article>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- fact-counter section end -->
-
      <!-- team section -->
-    <section class="our-team sec-pad">
+     <section class="our-team sec-pad" style="background-color:;">
         <div class="container">
             <div class="team-title centered">
-                <div class="section-title"> <h2 style="font-family:Oswald, sans-serif;font-weight: 400;font-size: 30px; opacity: 1; visibility: visible;line-height:1.5;color:#242d2e;">Our Team</h2></div>
+                <div class="section-title"> <h2 style="font-family:Oswald, sans-serif;font-weight: 400;font-size: 30px; opacity: 1; visibility: visible;line-height:1.5;color:#242d2e;margin-top:0;">Our Team</h2></div>
                 <div class="title-text"><p style="font-family: Roboto, sans-serif;font-weight: 400;font-size: 16px;opacity: 1;visibility: visible;line-height:1.5;color:#24314f;">The people who make the difference. </p></div>
             </div>
             <div class="row">
@@ -866,6 +725,148 @@ color:#ffffff;    "> </div>
     </section>
     <!-- team section end -->
 
+
+    <!-- feature section end -->
+    <!-- service section -->
+    
+    <!-- feature section end -->
+    <!-- service section -->
+
+    <!-- feature section end -->
+
+ 
+    <!-- feature section end -->
+    <!-- service section -->
+   <!-- <section style="background-color: #253559;">
+        <div class="container-fluid" >
+            <div class="row" >
+                <div class="col-md-3 col-sm-6 col-sm-12"  >
+                    <div class="service-title">
+                        <div class="sec-title"><h2>Our <span>Services</span></h2></div>
+                        <div  ><p style="color:white;">We offer a number of services in ranging from business mentorship to management Consultancy.</p></div>
+                    </div>
+                </div>
+                <div class="col-md-9 col-sm-12 col-xs-12 service-colmun" style="background-color: #ffffff;" >
+                    <div class="three-column-carousel">
+                        <div class="single-item">
+                            <div class="icon-box"><a href="service-details.html"><i class="flaticon-graph" style="background-color:#f6b129;color:white;:200px;"></i></a></div>
+                            <h4><a href="service-details.html">Business Mentorship</a></h4>
+                            <div class="text"><p>Our one to one coaching approach provides you with personalized support service, focusing on your particular issues and concerns. Our expert business coaches
+                                 and mentors offer strategic solutions that will add value to your business.</p></div>
+                        </div>
+                        <div class="single-item">
+                            <div class="icon-box"><a href="service-details.html"><i class="flaticon-people"></i></a></div>
+                            <h4><a href="service-details.html">Planning Workshops </a></h4>
+                            <div class="text"><p>With our vast knowledge on strategic tools and models, our facilitation service helps organizations run successful strategic planning workshops. We are fully conversant with a range of strategic planning tools and models.</p></div>
+                        </div>
+                        <div class="single-item">
+                            <div class="icon-box"><a href="service-details.html"><i class="flaticon-suitcase"></i></a></div>
+                            <h4><a href="service-details.html">Management Consultancy </a></h4>
+                            <div class="text"><p>Many SMEs are run by single owner managers with little to no specialist or expert support within the enterprise, unlike large organizations with their boards of directors and function-oriented departments that offer assistance in decision making.
+                                   
+                                    </p></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>-->
+    <!-- feature section end -->
+
+    <!-- testimonial section -->
+    <section class="testimonial-section sec-pad">
+        <div class="container">
+            <div class="testimonial-title centered">
+                <div class="section-title"></div>
+                <div class="title-text">
+                    <h2 style="font-family:Oswald, sans-serif;font-weight: 400;font-size: 30px; opacity: 1; visibility: visible;line-height:1.5;color:#242d2e;">Testimonials</h2>
+                    <p style="font-family: Roboto, sans-serif;font-weight: 400;font-size: 16px;opacity: 1;visibility: visible;line-height:1.5;color:#24314f;">What our customers think</p></div>
+            </div>
+            <div class="testimonial-slider">
+                <div class="testimonial-content">
+                    <div class="authore-info">
+                        <div class="img-box"><figure><!--<img style="width:70px;height:70px;" src="./images/home/female.png" alt="">-->
+                        <img style="width:70px;height:70px;object-fit:cover;" src="./images/IMG_2301.JPG" alt=""></figure></div>
+                        <div class="author-meta">
+                            <h4>Margaret John Njau</h4>
+                            <span>Fashion Designer in Langata</span>
+                        </div>
+                    </div>
+                    <div class="text"><p style="font-family: Roboto, sans-serif;font-weight: 400;font-size: 16px;opacity: 1;visibility: visible;line-height:1.5;color:#24314f;">"You guys covered alot .I've learnt so muuch.Cant wait for the next time!"</p></div>
+                </div>
+                <div class="testimonial-content">
+                    <div class="authore-info">
+                        <div class="img-box"><figure><img style="width:70px;height:70px;object-fit:cover;" src="./images/home/1569142903896.jpg" alt=""></figure></div>
+                        <div class="author-meta">
+                            <h4>Mr. Okisegere Ojepat</h4>
+                            <span>CEO at FPC-Kenya</span>
+                        </div>
+                    </div>
+                    <div class="text"><p style="font-family: Roboto, sans-serif;font-weight: 400;font-size: 16px;opacity: 1;visibility: visible;line-height:1.5;color:#24314f;">“We were able to get training in the export business and that has been transformative.”</p></div>
+                </div>
+               
+               <div class="testimonial-content">
+                    <div class="authore-info">
+                        <div class="img-box"><figure><img style="width:70px;height:70px;" src="./images/home/female.png" alt=""></figure></div>
+                        <div class="author-meta">
+                            <h4>Sharon Achieng</h4>
+                            <span>Business lady  in Nairobi,Kenya</span>
+                        </div>
+                    </div>
+                    <div class="text"><p style="font-family: Roboto, sans-serif;font-weight: 400;font-size: 16px;opacity: 1;visibility: visible;line-height:1.5;color:#24314f;">Thank you so much for an amazing business training ,this is literally a gamechanger for me.</p></div>
+                </div>
+                
+                
+               
+               
+                   
+               
+            </div>
+        </div>
+    </section>
+    <!-- testimonial section end -->
+
+    <!-- fact-counter -->
+    <div></div>
+    <section class="fact-counter centered" style="background-color: #253559;">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-3 col-sm-6 col-xs-12 counter-colmun">
+                    <div class="single-item">
+                        <article class="column wow fadeIn" data-wow-duration="0ms">
+                            <div class="count-outer"><span class="count-text" data-speed="1500" data-stop="10">0</span><span>+</span></div>
+                            <div class="text" style="font-family: Roboto, sans-serif;font-weight: 400;font-size: 16px;opacity: 1;visibility: visible;line-height:1.5;color:#ffffff;">Years Experience</div>
+                        </article>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-6 col-xs-12 counter-colmun">
+                    <div class="single-item">
+                        <article class="column wow fadeIn" data-wow-duration="0ms">
+                            <div class="count-outer"><span class="count-text" data-speed="1500" data-stop="10">0</span><span>+</span></div>
+                            <div class="text" style="font-family: Roboto, sans-serif;font-weight: 400;font-size: 16px;opacity: 1;visibility: visible;line-height:1.5;color:#ffffff;">Industries served</div>
+                        </article>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-6 col-xs-12 counter-colmun">
+                    <div class="single-item">
+                        <article class="column wow fadeIn" data-wow-duration="0ms">
+                            <div class="count-outer"><span class="count-text" data-speed="1500" data-stop="7558">0</span><span>+</span></div>
+                            <div class="text" style="font-family: Roboto, sans-serif;font-weight: 400;font-size: 16px;opacity: 1;visibility: visible;line-height:1.5;color:#ffffff;">Enterprises Trained</div>
+                        </article>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-6 col-xs-12 counter-colmun">
+                    <div class="single-item">
+                        <article class="column wow fadeIn" data-wow-duration="0ms">
+                            <div class="count-outer"><span class="count-text" data-speed="1500" data-stop="177">0</span><span>+</span></div>
+                            <div class="text" style="font-family: Roboto, sans-serif;font-weight: 400;font-size: 16px;opacity: 1;visibility: visible;line-height:1.5;color:#ffffff;">Our Expert Staffs</div>
+                        </article>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- fact-counter section end -->
 
      <!-- call-back-section -->
   <section class="call-back sec-pad">
